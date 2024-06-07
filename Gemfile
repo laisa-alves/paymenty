@@ -30,3 +30,5 @@ end
 
 
 gem "credit_card_validations", "~> 6.2"
+
+gem "faraday", "~> 2.9"
